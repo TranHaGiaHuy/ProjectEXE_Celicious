@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjectCelicious_WebClient.props" />
+</Project>

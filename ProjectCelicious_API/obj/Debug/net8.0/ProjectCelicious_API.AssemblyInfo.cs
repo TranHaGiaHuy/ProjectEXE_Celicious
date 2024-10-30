@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectCelicious_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d41d6d4b7ed67a3669bf5c2eb8c05765115c6b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectCelicious_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectCelicious_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

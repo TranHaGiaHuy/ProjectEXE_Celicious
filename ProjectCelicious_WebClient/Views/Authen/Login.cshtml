@@ -1,0 +1,27 @@
+﻿<!-- Views/Account/Login.cshtml -->
+@model ProjectCelicious_WebClient.DTOs.LoginRequest
+
+<h2>Login</h2>
+
+<form asp-action="Login" asp-controller="Authen" method="post">
+    <div>
+        <label>Email</label>
+        <input type="email" asp-for="Email" required />
+    </div>
+    <div>
+        <label>Password</label>
+        <input type="password" asp-for="Password" required />
+    </div>
+    <div>
+        <input type="checkbox" asp-for="RememberMe" />
+        <label>Remember Me</label>
+    </div>
+    <button type="submit">Login</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+}

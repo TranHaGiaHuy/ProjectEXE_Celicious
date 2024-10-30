@@ -1,0 +1,1457 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProjectCelicious_WebClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectCelicious_WebClient.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\assets\\jquery.min.html",
+      "PackagePath": "staticwebassets\\assets\\jquery.min.html"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\assets\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\assets\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\datepicker.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\mega.menu.css",
+      "PackagePath": "staticwebassets\\css\\mega.menu.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\owlslider.css",
+      "PackagePath": "staticwebassets\\css\\owlslider.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\recipeowlslider.css",
+      "PackagePath": "staticwebassets\\css\\recipeowlslider.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\thumbnail.slider.css",
+      "PackagePath": "staticwebassets\\css\\thumbnail.slider.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\icon_1.svg",
+      "PackagePath": "staticwebassets\\images\\about\\icon_1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\icon_2.svg",
+      "PackagePath": "staticwebassets\\images\\about\\icon_2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\icon_3.svg",
+      "PackagePath": "staticwebassets\\images\\about\\icon_3.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\icon_4.svg",
+      "PackagePath": "staticwebassets\\images\\about\\icon_4.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\about\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\add-restaurant\\icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\add-restaurant\\icon-1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\add-restaurant\\icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\add-restaurant\\icon-2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\add-restaurant\\icon-3.svg",
+      "PackagePath": "staticwebassets\\images\\add-restaurant\\icon-3.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\bill-slip\\delivery-icon.svg",
+      "PackagePath": "staticwebassets\\images\\bill-slip\\delivery-icon.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\bill-slip\\qr-icon.svg",
+      "PackagePath": "staticwebassets\\images\\bill-slip\\qr-icon.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\big-img.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\big-img.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\blogs\\img-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\img-9.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\browse-places\\icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\browse-places\\icon-1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\browse-places\\icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\browse-places\\icon-2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\browse-places\\icon-3.svg",
+      "PackagePath": "staticwebassets\\images\\browse-places\\icon-3.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\browse-places\\icon-4.svg",
+      "PackagePath": "staticwebassets\\images\\browse-places\\icon-4.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\browse-places\\icon-5.svg",
+      "PackagePath": "staticwebassets\\images\\browse-places\\icon-5.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\browse-places\\icon-6.svg",
+      "PackagePath": "staticwebassets\\images\\browse-places\\icon-6.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\cards.png",
+      "PackagePath": "staticwebassets\\images\\cards.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\checkout\\icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\checkout\\icon-1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\checkout\\icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\checkout\\icon-2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\checkout\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\checkout\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\contact\\icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\contact\\icon-1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\contact\\icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\contact\\icon-2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\contact\\icon-3.svg",
+      "PackagePath": "staticwebassets\\images\\contact\\icon-3.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\contact\\icon-4.svg",
+      "PackagePath": "staticwebassets\\images\\contact\\icon-4.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\error.svg",
+      "PackagePath": "staticwebassets\\images\\error.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\big-img.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\big-img.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\events\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\fav.png",
+      "PackagePath": "staticwebassets\\images\\fav.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\banner.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\main-video.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\main-video.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\user-1.png",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\user-1.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\user-2.png",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\user-2.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\user-3.png",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\user-3.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\user-4.png",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\user-4.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\user-5.png",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\user-5.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-1.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-2.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-3.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-4.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-5.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-6.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-7.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\find-recipes\\video-8.jpg",
+      "PackagePath": "staticwebassets\\images\\find-recipes\\video-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\app-store.png",
+      "PackagePath": "staticwebassets\\images\\homepage\\app-store.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\banner.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\bottom-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\bottom-banner.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\browse_places\\01.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\browse_places\\01.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\browse_places\\02.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\browse_places\\02.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\browse_places\\03.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\browse_places\\03.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\browse_places\\04.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\browse_places\\04.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\browse_places\\05.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\browse_places\\05.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\browse_places\\06.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\browse_places\\06.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\featured-restaurants\\logo_01.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\featured-restaurants\\logo_01.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\featured-restaurants\\logo_02.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\featured-restaurants\\logo_02.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\featured-restaurants\\logo_03.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\featured-restaurants\\logo_03.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\featured-restaurants\\logo_04.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\featured-restaurants\\logo_04.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\featured-restaurants\\logo_05.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\featured-restaurants\\logo_05.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\featured-restaurants\\logo_06.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\featured-restaurants\\logo_06.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\featured-restaurants\\logo_07.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\featured-restaurants\\logo_07.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\how-to-work\\img_1.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\how-to-work\\img_1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\how-to-work\\img_2.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\how-to-work\\img_2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\how-to-work\\img_3.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\how-to-work\\img_3.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\line.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\line.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\img-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-1.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-2.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-3.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-4.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-5.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-6.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-7.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\meals\\logo-8.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\meals\\logo-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\mobile.png",
+      "PackagePath": "staticwebassets\\images\\homepage\\mobile.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\offer-banners\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\offer-banners\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\offer-banners\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\offer-banners\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\play-store.png",
+      "PackagePath": "staticwebassets\\images\\homepage\\play-store.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\quick-searches\\meal-1.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\quick-searches\\meal-1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\quick-searches\\meal-2.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\quick-searches\\meal-2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\quick-searches\\meal-3.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\quick-searches\\meal-3.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\quick-searches\\meal-4.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\quick-searches\\meal-4.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\quick-searches\\meal-5.svg",
+      "PackagePath": "staticwebassets\\images\\homepage\\quick-searches\\meal-5.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\recipes\\recipe_01.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\recipes\\recipe_01.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\recipes\\recipe_02.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\recipes\\recipe_02.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\recipes\\recipe_03.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\recipes\\recipe_03.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\recipes\\recipe_04.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\recipes\\recipe_04.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\recipes\\recipe_05.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\recipes\\recipe_05.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\recipes\\recipe_06.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\recipes\\recipe_06.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\resto-book\\img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\resto-book\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\resto-book\\img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\resto-book\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\resto-book\\img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\resto-book\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\resto-book\\img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\resto-book\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\homepage\\resto-book\\img_5.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\resto-book\\img_5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\how-to-orders\\icon_1.svg",
+      "PackagePath": "staticwebassets\\images\\how-to-orders\\icon_1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\how-to-orders\\icon_2.svg",
+      "PackagePath": "staticwebassets\\images\\how-to-orders\\icon_2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\how-to-orders\\icon_3.svg",
+      "PackagePath": "staticwebassets\\images\\how-to-orders\\icon_3.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\how-to-orders\\icon_4.svg",
+      "PackagePath": "staticwebassets\\images\\how-to-orders\\icon_4.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\how-to-orders\\icon_5.svg",
+      "PackagePath": "staticwebassets\\images\\how-to-orders\\icon_5.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\how-to-orders\\order-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\how-to-orders\\order-bg.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\login-register\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\login-register\\logo.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\logo-2.svg",
+      "PackagePath": "staticwebassets\\images\\logo-2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\meal-detail\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\meal-detail\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\notification-img-2.png",
+      "PackagePath": "staticwebassets\\images\\notification-img-2.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\notification-img-3.png",
+      "PackagePath": "staticwebassets\\images\\notification-img-3.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\notification-img-4.png",
+      "PackagePath": "staticwebassets\\images\\notification-img-4.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partner-with-us\\icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\partner-with-us\\icon-1.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partner-with-us\\icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\partner-with-us\\icon-2.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partner-with-us\\video-img.jpg",
+      "PackagePath": "staticwebassets\\images\\partner-with-us\\video-img.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\google-ad.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\google-ad.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\logo-1.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\logo-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\logo-2.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\logo-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\logo-3.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\logo-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\logo-4.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\logo-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\partners\\logo-5.jpg",
+      "PackagePath": "staticwebassets\\images\\partners\\logo-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\bg-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\bg-img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\bg-img.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\bg-img.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\bg.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\dp-1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\dp-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\dp-2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\dp-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\meal-1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\meal-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\meal-2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\meal-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\meal-3.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\meal-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\meal-4.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\meal-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\meal-5.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\meal-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\meal-6.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\meal-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\mobiwik.png",
+      "PackagePath": "staticwebassets\\images\\profile\\mobiwik.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\noti-1.png",
+      "PackagePath": "staticwebassets\\images\\profile\\noti-1.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\noti-2.png",
+      "PackagePath": "staticwebassets\\images\\profile\\noti-2.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\noti-3.png",
+      "PackagePath": "staticwebassets\\images\\profile\\noti-3.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\noti-4.png",
+      "PackagePath": "staticwebassets\\images\\profile\\noti-4.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\noti-5.png",
+      "PackagePath": "staticwebassets\\images\\profile\\noti-5.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\noti-6.png",
+      "PackagePath": "staticwebassets\\images\\profile\\noti-6.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\noti-7.png",
+      "PackagePath": "staticwebassets\\images\\profile\\noti-7.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\order-1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\order-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\order-2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\order-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\order-3.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\order-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\order-4.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\order-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\order-img.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\order-img.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\payapl.png",
+      "PackagePath": "staticwebassets\\images\\profile\\payapl.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\paytm.png",
+      "PackagePath": "staticwebassets\\images\\profile\\paytm.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-3.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-4.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-5.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-6.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-7.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-8.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\right-9.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\right-9.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\trace-map.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\trace-map.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\view-1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\view-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\view-2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\view-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\view-3.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\view-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\profile\\view-4.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\view-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\comment-1.png",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\comment-1.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\comment-2.png",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\comment-2.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\comment-3.png",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\comment-3.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\comment-4.png",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\comment-4.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\comment-5.png",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\comment-5.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\meal-1.jpg",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\meal-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\meal-2.jpg",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\meal-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\meal-3.jpg",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\meal-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\meal-4.jpg",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\meal-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\reply-1.png",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\reply-1.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\recipe-details\\user-dp.png",
+      "PackagePath": "staticwebassets\\images\\recipe-details\\user-dp.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\add-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\add-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\add-2.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\add-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\add-3.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\add-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\img-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\logo-10.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\logo-10.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-2.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-3.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-4.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-5.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-6.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-7.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\meal-8.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\meal-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\menu-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\menu-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\menu-logo-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\menu-logo-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\menu-logo-2.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\menu-logo-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\offer-bnnr-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\offer-bnnr-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-2.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-3.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-4.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-5.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-6.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-7.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\photo-8.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\photo-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\restaurant-detail\\thumbs\\img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant-detail\\thumbs\\img-8.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\images\\upload-recipe\\upload-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\upload-recipe\\upload-bg.jpg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\dashboard-tabs-reload.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-tabs-reload.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\owlslider.js",
+      "PackagePath": "staticwebassets\\js\\owlslider.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\recipeowlslider.js",
+      "PackagePath": "staticwebassets\\js\\recipeowlslider.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\js\\thumbnail.slider.js",
+      "PackagePath": "staticwebassets\\js\\thumbnail.slider.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\OwlCarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendor\\OwlCarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\OwlCarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\vendor\\OwlCarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\OwlCarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\vendor\\OwlCarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\OwlCarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\vendor\\OwlCarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectCelicious_WebClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectCelicious_WebClient.props",
+      "PackagePath": "build\\ProjectCelicious_WebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectCelicious_WebClient.props",
+      "PackagePath": "buildMultiTargeting\\ProjectCelicious_WebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectCelicious_WebClient.props",
+      "PackagePath": "buildTransitive\\ProjectCelicious_WebClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

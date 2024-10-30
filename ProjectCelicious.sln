@@ -3,15 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObject", "BusinessObject\BusinessObject.csproj", "{D534A396-1AF0-4D2C-85AB-8F9447601EDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectCelicious_API", "ProjectCelicious_API\ProjectCelicious_API.csproj", "{FA60183A-A13C-43D6-BB8A-131D415963F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{6AB65A6C-2792-47C9-AC64-091A1C767ACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectCelicious_WebClient", "ProjectCelicious_WebClient\ProjectCelicious_WebClient.csproj", "{06DA1BC5-2507-4813-AACB-1DD302465879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{17A3C0B7-91B4-43A2-8391-E1DC5389AD79}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCelicious_API", "ProjectCelicious_API\ProjectCelicious_API.csproj", "{FA60183A-A13C-43D6-BB8A-131D415963F8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCelicious_WebClient", "ProjectCelicious_WebClient\ProjectCelicious_WebClient.csproj", "{06DA1BC5-2507-4813-AACB-1DD302465879}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{832B1476-1572-4616-A354-0B36C87AFC41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,18 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D534A396-1AF0-4D2C-85AB-8F9447601EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D534A396-1AF0-4D2C-85AB-8F9447601EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D534A396-1AF0-4D2C-85AB-8F9447601EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D534A396-1AF0-4D2C-85AB-8F9447601EDA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6AB65A6C-2792-47C9-AC64-091A1C767ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6AB65A6C-2792-47C9-AC64-091A1C767ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6AB65A6C-2792-47C9-AC64-091A1C767ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6AB65A6C-2792-47C9-AC64-091A1C767ACC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17A3C0B7-91B4-43A2-8391-E1DC5389AD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17A3C0B7-91B4-43A2-8391-E1DC5389AD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17A3C0B7-91B4-43A2-8391-E1DC5389AD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17A3C0B7-91B4-43A2-8391-E1DC5389AD79}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FA60183A-A13C-43D6-BB8A-131D415963F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FA60183A-A13C-43D6-BB8A-131D415963F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA60183A-A13C-43D6-BB8A-131D415963F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +23,10 @@ Global
 		{06DA1BC5-2507-4813-AACB-1DD302465879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06DA1BC5-2507-4813-AACB-1DD302465879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06DA1BC5-2507-4813-AACB-1DD302465879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832B1476-1572-4616-A354-0B36C87AFC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832B1476-1572-4616-A354-0B36C87AFC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832B1476-1572-4616-A354-0B36C87AFC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832B1476-1572-4616-A354-0B36C87AFC41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,16 +3,332 @@
   "WorkspaceRootPath": "D:\\FA24\\PRN231\\ProjectCelicious\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17A3C0B7-91B4-43A2-8391-E1DC5389AD79}|Repository\\Repository.csproj|d:\\fa24\\prn231\\projectcelicious\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17A3C0B7-91B4-43A2-8391-E1DC5389AD79}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|d:\\fa24\\prn231\\projectcelicious\\projectcelicious_webclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AB65A6C-2792-47C9-AC64-091A1C767ACC}|DataAccess\\DataAccess.csproj|d:\\fa24\\prn231\\projectcelicious\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AB65A6C-2792-47C9-AC64-091A1C767ACC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\views\\authen\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\views\\authen\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D534A396-1AF0-4D2C-85AB-8F9447601EDA}|BusinessObject\\BusinessObject.csproj|d:\\fa24\\prn231\\projectcelicious\\businessobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D534A396-1AF0-4D2C-85AB-8F9447601EDA}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\appurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\appurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\dishcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\dishcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|d:\\fa24\\prn231\\projectcelicious\\projectcelicious_webclient\\wwwroot\\css\\datepicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\datepicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|d:\\fa24\\prn231\\projectcelicious\\projectcelicious_webclient\\wwwroot\\css\\mega.menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\mega.menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\wwwroot\\css\\owlslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\owlslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|d:\\fa24\\prn231\\projectcelicious\\projectcelicious_webclient\\wwwroot\\css\\recipeowlslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\recipeowlslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\wwwroot\\css\\bootstrap-select.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\css\\bootstrap-select.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\wwwroot\\assets\\owlcarousel\\owl.carousel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\wwwroot\\assets\\owlcarousel\\owl.carousel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\dishimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\dishimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\restaurantimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\restaurantimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\restaurantcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\restaurantcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\dtos\\restaurantaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\dtos\\restaurantaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\dishcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\dishcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\dishcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\dishcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\dishimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\dishimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\dishimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\dishimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\dishimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\dishimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\restaurantimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\restaurantimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\restaurantimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\restaurantimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\restaurantimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\restaurantimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\restaurantcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\restaurantcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\restaurantcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\restaurantcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\restaurantcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\restaurantcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\restaurantaddressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\restaurantaddressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\restaurantaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\restaurantaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\restaurantaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\restaurantaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\dishcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\dishcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\controllers\\restaurentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\controllers\\restaurentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\datacontext\\celiciouscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\datacontext\\celiciouscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\migrations\\20241029154933_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\migrations\\20241029154933_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029154852_UpdateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241029154852_UpdateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029150403_UpdateRole3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241029150403_UpdateRole3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029150310_UpdateRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241029150310_UpdateRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029144224_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241029144224_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029144132_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241029144132_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029143437_UpdateAcUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241029143437_UpdateAcUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\projectcelicious_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\projectcelicious_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_webclient\\projectcelicious_webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06DA1BC5-2507-4813-AACB-1DD302465879}|ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj|solutionrelative:projectcelicious_webclient\\projectcelicious_webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\projectcelicious_api\\projectcelicious_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA60183A-A13C-43D6-BB8A-131D415963F8}|ProjectCelicious_API\\ProjectCelicious_API.csproj|solutionrelative:projectcelicious_api\\projectcelicious_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241008013706_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241008013706_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241008005331_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObjects\\Migrations\\20241008005331_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029165514_UpdateData2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:BusinessObjects\\Migrations\\20241029165514_UpdateData2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029160606_UpdateData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B1476-1572-4616-A354-0B36C87AFC41}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:BusinessObjects\\Migrations\\20241029160606_UpdateData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +338,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,10 +358,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
@@ -54,46 +366,1008 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\Repository\\Class1.cs",
-              "RelativeDocumentMoniker": "Repository\\Class1.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\Repository\\Class1.cs",
-              "RelativeToolTip": "Repository\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:07:00.189Z",
+              "DocumentIndex": 8,
+              "Title": "responsive.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\responsive.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\responsive.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\responsive.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\responsive.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:24:50.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "DataAccess\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "DishCategoryDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\DishCategoryDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\DishCategoryDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\DishCategoryDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\DishCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:06:43.206Z",
+              "WhenOpened": "2024-10-29T17:29:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Controllers\\AuthenController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Controllers\\AuthenController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Controllers\\AuthenController.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Controllers\\AuthenController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwDcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:14:31.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObject\\Class1.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\Class1.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObject\\Class1.cs",
-              "RelativeToolTip": "BusinessObject\\Class1.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4FAAAAAAAAAAAkwDIFAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:32:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T00:33:49.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "datepicker.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\datepicker.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\datepicker.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\datepicker.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\datepicker.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:37:45.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Authen\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Views\\Authen\\Login.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Authen\\Login.cshtml",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Views\\Authen\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:19:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppURL.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\AppURL.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\AppURL.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\AppURL.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\AppURL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:20:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Program.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Program.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:07:23.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mega.menu.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\mega.menu.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\mega.menu.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\mega.menu.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\mega.menu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:37:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "owlslider.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\owlslider.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\owlslider.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\owlslider.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\owlslider.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:24:53.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:06:32.651Z",
+              "WhenOpened": "2024-10-29T16:17:08.225Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "recipeowlslider.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\recipeowlslider.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\recipeowlslider.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\recipeowlslider.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\recipeowlslider.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:37:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:24:49.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap-select.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\bootstrap-select.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\bootstrap-select.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\bootstrap-select.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\bootstrap-select.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:24:45.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "owl.carousel.js",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\assets\\owlcarousel\\owl.carousel.js",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\assets\\owlcarousel\\owl.carousel.js",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\assets\\owlcarousel\\owl.carousel.js",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\assets\\owlcarousel\\owl.carousel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T00:19:51.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:25:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:45:29.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwGwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:47:54.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:09.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:27.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:45:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DishDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\DishDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\DishDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\DishDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\DishDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:02.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:40:02.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\TokenResponse.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\TokenResponse.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:37:37.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:36:50.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DishImageDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\DishImageDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\DishImageDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\DishImageDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\DishImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:04.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:33:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\ReviewDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\ReviewDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\ReviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:24.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RestaurantImageDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantImageDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\RestaurantImageDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantImageDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\RestaurantImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:20.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RestaurantDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\RestaurantDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\RestaurantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:18.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RestaurantCategoryDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantCategoryDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\RestaurantCategoryDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantCategoryDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\RestaurantCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:15.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RestaurantAddressDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantAddressDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\DTOs\\RestaurantAddressDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\DTOs\\RestaurantAddressDto.cs",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\DTOs\\RestaurantAddressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:13.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DishImageDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\DishImageDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\DishImageDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\DishImageDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\DishImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:22:45.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DishCategoryDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\DishCategoryDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\DishCategoryDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\DishCategoryDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\DishCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:14:06.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DishCategoriesController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\DishCategoriesController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\DishCategoriesController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\DishCategoriesController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\DishCategoriesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:32:32.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Program.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Program.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwD0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:40:49.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:50:55.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:24:55.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\User.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\User.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:27:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:50:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\ReviewDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\ReviewDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\ReviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:23:43.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Review.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Review.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Review.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:27:48.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DishImagesController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\DishImagesController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\DishImagesController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\DishImagesController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\DishImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:45:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RestaurantImagesController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurantImagesController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\RestaurantImagesController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurantImagesController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\RestaurantImagesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:50:05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RestaurantImageDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantImageDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\RestaurantImageDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantImageDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\RestaurantImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:17:01.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RestaurantImage.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\RestaurantImage.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\RestaurantImage.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\RestaurantImage.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\RestaurantImage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:27:39.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RestaurantCategoriesController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurantCategoriesController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\RestaurantCategoriesController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurantCategoriesController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\RestaurantCategoriesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:28:17.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DishImage.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\DishImage.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\DishImage.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\DishImage.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\DishImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:26:59.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RestaurantCategoryDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantCategoryDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\RestaurantCategoryDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantCategoryDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\RestaurantCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:20:26.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RestaurantCategory.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\RestaurantCategory.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\RestaurantCategory.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\RestaurantCategory.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\RestaurantCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:27:30.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RestaurantAddressesController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurantAddressesController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\RestaurantAddressesController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurantAddressesController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\RestaurantAddressesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:29:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RestaurantAddressDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantAddressDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\RestaurantAddressDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantAddressDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\RestaurantAddressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:18:59.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Restaurant.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Restaurant.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Restaurant.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:27:09.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\DishesController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\DishesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:30:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RestaurantAddress.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\RestaurantAddress.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\RestaurantAddress.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\RestaurantAddress.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\RestaurantAddress.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:27:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DishCategory.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\DishCategory.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\DishCategory.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\DishCategory.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\DishCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:26:51.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DishDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\DishDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\DishDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\DishDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\DishDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:06:37.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Dish.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Dish.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Dish.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:26:41.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20241029165514_UpdateData2.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029165514_UpdateData2.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029165514_UpdateData2.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029165514_UpdateData2.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029165514_UpdateData2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:55:14.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RestaurentController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurentController.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\Controllers\\RestaurentController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\Controllers\\RestaurentController.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\Controllers\\RestaurentController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:26:21.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Account.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Models\\Account.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Account.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:26:35.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RestaurantDto.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantDto.cs",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\DTOs\\RestaurantDto.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\DTOs\\RestaurantDto.cs",
+              "RelativeToolTip": "ProjectCelicious_API\\DTOs\\RestaurantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:22:45.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\appsettings.json",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\appsettings.json",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T16:11:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20241029160606_UpdateData.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029160606_UpdateData.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029160606_UpdateData.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029160606_UpdateData.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029160606_UpdateData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:06:06.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CeliciousContext.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\DataContext\\CeliciousContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DataContext\\CeliciousContext.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\DataContext\\CeliciousContext.cs",
+              "RelativeToolTip": "BusinessObjects\\DataContext\\CeliciousContext.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwFEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:45:45.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20241029154933_InitialDb.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029154933_InitialDb.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029154933_InitialDb.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029154933_InitialDb.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029154933_InitialDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:49:34.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20241029154852_UpdateDatabase.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029154852_UpdateDatabase.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029154852_UpdateDatabase.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029154852_UpdateDatabase.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029154852_UpdateDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:48:52.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObjects\\appsettings.json",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\appsettings.json",
+              "RelativeToolTip": "BusinessObjects\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T00:49:00.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20241029150403_UpdateRole3.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029150403_UpdateRole3.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029150403_UpdateRole3.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029150403_UpdateRole3.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029150403_UpdateRole3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:04:04.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20241029150310_UpdateRole.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029150310_UpdateRole.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029150310_UpdateRole.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029150310_UpdateRole.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029150310_UpdateRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:03:10.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20241029144224_InitialDB.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029144224_InitialDB.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029144224_InitialDB.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029144224_InitialDB.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029144224_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:42:24.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20241029144132_InitialDB.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029144132_InitialDB.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029144132_InitialDB.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029144132_InitialDB.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029144132_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:41:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20241029143437_UpdateAcUser.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029143437_UpdateAcUser.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241029143437_UpdateAcUser.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241029143437_UpdateAcUser.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241029143437_UpdateAcUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:34:37.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\appsettings.json",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\appsettings.json",
+              "RelativeToolTip": "ProjectCelicious_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T13:49:28.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BusinessObjects",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T13:39:18.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ProjectCelicious_API.http",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\ProjectCelicious_API.http",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\ProjectCelicious_API.http",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\ProjectCelicious_API.http",
+              "RelativeToolTip": "ProjectCelicious_API\\ProjectCelicious_API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-21T06:52:54.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ProjectCelicious_WebClient.csproj",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj",
+              "RelativeDocumentMoniker": "ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj",
+              "RelativeToolTip": "ProjectCelicious_WebClient\\ProjectCelicious_WebClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T06:40:45.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ProjectCelicious_API.csproj",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\ProjectCelicious_API.csproj",
+              "RelativeDocumentMoniker": "ProjectCelicious_API\\ProjectCelicious_API.csproj",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\ProjectCelicious_API\\ProjectCelicious_API.csproj",
+              "RelativeToolTip": "ProjectCelicious_API\\ProjectCelicious_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T06:16:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20241008013706_A.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241008013706_A.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241008013706_A.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241008013706_A.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241008013706_A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:37:06.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20241008005331_A.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241008005331_A.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20241008005331_A.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\ProjectCelicious\\BusinessObjects\\Migrations\\20241008005331_A.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20241008005331_A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:53:31.672Z"
             }
           ]
         },
@@ -123,10 +1397,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -136,6 +1406,30 @@
             {
               "$type": "Bookmark",
               "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:89:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:102:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:111:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:112:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         },
